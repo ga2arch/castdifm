@@ -19,3 +19,5 @@ connected
 $ node castdifm.js --stop
 connected
 ```
+
+![alt tag](http://i.imgur.com/WIXHAef.jpg)
