@@ -1,4 +1,4 @@
-Castfdifm
+Castdifm
 =============
 ### Cast di.fm station to the chromecast
 
