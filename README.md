@@ -16,8 +16,14 @@ Usage
 ```bash
 $ node castdifm.js deephouse [--key=<listen_key>]
 connected
+```
+
+![alt tag](http://i.imgur.com/WIXHAef.jpg)
+
+```bash
 $ node castdifm.js --stop
 connected
 ```
 
-![alt tag](http://i.imgur.com/WIXHAef.jpg)
+![alt tag](http://i.imgur.com/J9s4N6U.jpg)
+
