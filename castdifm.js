@@ -76,10 +76,7 @@
     var client;
     client = new Client();
     client.connect(host, function() {
-      var appid;
       console.log('connected');
-      appid = '728AF48B';
-      DefaultMediaReceiver.APP_ID = appid;
       return client.launch(DefaultMediaReceiver, function(err, player) {
         var media;
         media = {

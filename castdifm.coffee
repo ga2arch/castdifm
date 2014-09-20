@@ -43,7 +43,6 @@ stopStream = (host) ->
         client.getSessions (_, sessions) ->
             client.join sessions[0], DefaultMediaReceiver, (err, player) ->
                 player.getStatus (_, status ) -> 
-                    #player.stop()
                     client.stop player
                     client.close()
 
